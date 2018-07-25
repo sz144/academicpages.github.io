@@ -11,9 +11,9 @@ title                    : "Shuo Zhou"
 title_separator          : "-"
 name                     : &name "Shuo Zhou"
 description              : &description "Phd Student in Machine Learning"
-url                      : https://szhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sz144.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "szhou.github.io"
+repository               : "sz144.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shuo Zhou"
   avatar           : "profile.png"
   bio              : "Phd Student in Machine Learning"
   location         : "Sheffield"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/szhou144"
+  twitter          : "szhou144"
   vine             :
   weibo            :
   xing             :
