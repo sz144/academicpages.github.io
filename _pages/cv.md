@@ -13,10 +13,10 @@ Education
 ======
 * Ph.D in Computer Science (Machine Learning), University of Sheffield, 2018-Ongoing
 * M.S. in Advanced Computer Science, University of Sheffield, 2016-2017
-%* B.S. in Github, Github University, 2012
+<!---* B.S. in Github, Github University, 2012--> 
 
 
-<!--
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
