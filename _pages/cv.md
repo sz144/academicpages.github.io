@@ -13,22 +13,22 @@ Education
 ======
 * Ph.D in Computer Science (Machine Learning), University of Sheffield, 2018-Ongoing
 * M.S. in Advanced Computer Science, University of Sheffield, 2016-2017
-#* B.S. in Github, Github University, 2012
+%* B.S. in Github, Github University, 2012
 
 
+<!--
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
-#Work experience
-#======
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -37,7 +37,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+--> 
 Publications
 ======
   <ul>{% for post in site.publications %}
