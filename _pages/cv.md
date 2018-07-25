@@ -15,8 +15,7 @@ Education
 * M.S. in Advanced Computer Science, University of Sheffield, 2016-2017
 <!---* B.S. in Github, Github University, 2012--> 
 
-<!---
-Work experience
+<!---Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -35,8 +34,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
---> 
+* Skill 3--> 
 
 Publications
 ======
