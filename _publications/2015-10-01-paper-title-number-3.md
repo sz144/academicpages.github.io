@@ -4,7 +4,7 @@ collection: preprint
 date: 2019-03-26
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/1903.11020.pdf'
-citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). &quot; Domain Independent SVM for Transfer Learning in Brain Decoding. &quot; <i>arXiv preprint arXiv:1903.11020.</i>.'
+citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). &quot; Domain Independent SVM for Transfer Learning in Brain Decoding. &quot; <i>arXiv preprint arXiv:1903.11020</i>.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/1903.11020.pdf)
