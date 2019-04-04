@@ -1,8 +1,8 @@
 ---
 title: "Improving Whole-Brain Neural Decoding of fMRI with Domain Adaptation"
 collection: preprint
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#permalink: /publication/2009-10-01-paper-title-number-1
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-07-23
 venue: 'biorxiv'
 paperurl: 'https://www.biorxiv.org/content/early/2018/07/23/375030'
