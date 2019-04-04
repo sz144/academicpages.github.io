@@ -1,4 +1,3 @@
-
 ---
 title: "Domain Independent SVM for Transfer Learning in Brain Decoding"
 collection: preprint
