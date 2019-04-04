@@ -60,7 +60,7 @@ Publications
     
 Teaching
 ======
-* Teaching Asistant COM6509 Machine Learning and Adaptive Intelligence 
+* Teaching Asistant for Module COM6509 Machine Learning and Adaptive Intelligence 
   * Department of Computer Science, the University of Sheffield
   * Autumn 2018/19
  
