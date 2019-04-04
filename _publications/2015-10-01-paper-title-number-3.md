@@ -9,7 +9,7 @@ citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). &quot; Domain Independ
 
 [Download paper here](https://arxiv.org/pdf/1903.11020.pdf)
 
-Recommended citation: Your Name, You. (2015). "Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). Domain Independent SVM for Transfer Learning in Brain Decoding. <i>arXiv preprint arXiv:1903.11020.</i>.
+Recommended citation: Your Name, You. (2015). "Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). Domain Independent SVM for Transfer Learning in Brain Decoding. <i>arXiv preprint arXiv:1903.11020</i>.
 
 
 <!---
