@@ -27,21 +27,6 @@ Education
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3--> 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +42,25 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3--> 
+
+Publications
+======
+  <ul>{% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+    
+Teaching
+======
+* Teaching Asistant COM6509 Machine Learning and Adaptive Intelligence 
+  * Department of Computer Science, the University of Sheffield
+  * Autumn 2018/19
+ 
