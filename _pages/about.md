@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Phd student in machine learning at the [Department of Computer Science, University of Sheffeild](https://www.sheffield.ac.uk/dcs/indexdcs), supervised by [Dr Haiping Lu](http://www.dcs.shef.ac.uk/~haiping/).
+I am a Phd student in machine learning at the [Department of Computer Science, the University of Sheffeild](https://www.sheffield.ac.uk/dcs/indexdcs), supervised by [Dr Haiping Lu](http://www.dcs.shef.ac.uk/~haiping/).
 
 Research Interests
 ======
