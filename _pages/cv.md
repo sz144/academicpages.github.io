@@ -38,6 +38,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+Teaching
+======
+* Teaching Asistant for Module COM6509 Machine Learning and Adaptive Intelligence 
+  * Department of Computer Science, the University of Sheffield
+  * Autumn 2018/19
   
 Service and leadership
 ======
@@ -60,7 +65,7 @@ Publications
     
 Teaching
 ======
-* Teaching Asistant for Module COM6509 Machine Learning and Adaptive Intelligence 
-  * Department of Computer Science, the University of Sheffield
-  * Autumn 2018/19
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
  
