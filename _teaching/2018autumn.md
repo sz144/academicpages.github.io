@@ -8,13 +8,14 @@ date: 2018-10-01
 location: "Sheffield, UK"
 ---
 
+Module Summary
+======
 The module is about core technologies underpinning modern artificial intelligence. The module will introduce statistical machine learning and probabilistic modelling and their application to describing real world phenomena. The module will give students a grounding in modern state of the art algorithms that allow modern computer systems to learn from data.
 
-Heading 1
-======
-
+<!---
 Heading 2
 ======
 
 Heading 3
 ======
+-->
