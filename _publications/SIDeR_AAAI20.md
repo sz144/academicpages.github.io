@@ -4,7 +4,7 @@ collection: Proceedings
 date: 2020-02-07
 venue: 'AAAI-20'
 paperurl: 'https://arxiv.org/pdf/1903.11020.pdf'
-citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). &quot; Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments. &quot; in AAAI.'
+citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). &quot; Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments. &quot; In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/1903.11020.pdf)
