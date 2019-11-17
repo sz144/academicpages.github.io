@@ -1,15 +1,15 @@
 ---
-title: "Domain Independent SVM for Transfer Learning in Brain Decoding"
-collection: preprint
-date: 2019-03-26
-venue: 'arXiv'
+title: "Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments"
+collection: Proceedings
+date: 2020-02-07
+venue: 'AAAI-20'
 paperurl: 'https://arxiv.org/pdf/1903.11020.pdf'
-citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). &quot; Domain Independent SVM for Transfer Learning in Brain Decoding. &quot; <i>arXiv preprint arXiv:1903.11020</i>.'
+citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). &quot; Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments. &quot; in AAAI.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/1903.11020.pdf)
 
-Recommended citation: Your Name, You. (2015). "Zhou, S., Li, W., Cox, C. R., & Lu, H. (2019). Domain Independent SVM for Transfer Learning in Brain Decoding. <i>arXiv preprint arXiv:1903.11020</i>.
+Recommended citation: Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments. In *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)*.
 
 
 <!---
