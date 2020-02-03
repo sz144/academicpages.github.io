@@ -1,5 +1,5 @@
 ---
-title: "Improving Whole-Brain Neural Decoding of fMRI with Domain Adaptation"
+title: 'Improving Whole-Brain Neural Decoding of fMRI with Domain Adaptation <a href="https://link.springer.com/chapter/10.1007/978-3-030-32692-0_31">[PDF]</a><a href="https://github.com/sz144/DawfMRI">[Code]</a>'
 collection: Preceding
 <!---permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'-->
