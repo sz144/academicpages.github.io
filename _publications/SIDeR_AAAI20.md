@@ -1,5 +1,5 @@
 ---
-title: "Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments <a href="https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf">[PDF]</a><a href="https://github.com/sz144/sider">[Code]</a>" 
+title: 'Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments <a href="https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf">[PDF]</a><a href="https://github.com/sz144/sider">[Code]</a>'
 collection: Proceedings
 date: 2020-02-07
 venue: 'AAAI-20' 
