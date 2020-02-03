@@ -4,7 +4,7 @@ collection: Proceedings
 date: 2020-02-07
 venue: 'AAAI-20' 
 paperurl: 'https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf'
-citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). In <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)</i>.[Code](https://github.com/sz144/sider)'
+citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). In <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)</i>. <a href="https://github.com/sz144/sider">[Code]</a>'
 ---
 
 [Download paper here](https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf)
