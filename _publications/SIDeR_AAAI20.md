@@ -1,6 +1,5 @@
 ---
 title: "Side Information Dependence as a Regularizer for Analyzing Human Brain Conditions across Cognitive Experiments"
-code: [Code](https://github.com/sz144/sider)
 collection: Proceedings
 date: 2020-02-07
 venue: 'AAAI-20'
