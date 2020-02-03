@@ -1,5 +1,5 @@
 ---
-title: "A machine-learning CMR approach to extract disease features and automate pulmonary arterial hypertension diagnosis"
+title: "A machine-learning CMR approach to extract disease features and automate pulmonary arterial hypertension diagnosis <a href="https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeaa001/5717931">[PDF]</a><br>"
 collection: Journal
 date: 30 Jan 2020
 venue: 'European Heart Journal - Cardiovascular Imaging'
