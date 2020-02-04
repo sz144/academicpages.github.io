@@ -4,7 +4,7 @@ collection: Journal
 date: 30 Jan 2020
 venue: 'European Heart Journal - Cardiovascular Imaging'
 paperurl: 'https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeaa001/5717931'
-citation: 'Andrew J Swift, Haiping Lu, Johanna Uthoff, Pankaj Garg, Marcella Cogliano, Jonathan Taylor, Peter Metherall, Shuo Zhou, Christopher S Johns, Samer Alabed, Robin A Condliffe, Allan Lawrie, Jim M Wild, David G Kiely. <i>European Heart Journal - Cardiovascular Imaging</i>, jeaa001, <a href="https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeaa001/5717931">https://doi.org/10.1093/ehjci/jeaa001</a><br>.'
+citation: 'Andrew J Swift, Haiping Lu, Johanna Uthoff, Pankaj Garg, Marcella Cogliano, Jonathan Taylor, Peter Metherall, Shuo Zhou, Christopher S Johns, Samer Alabed, Robin A Condliffe, Allan Lawrie, Jim M Wild, David G Kiely. <i>European Heart Journal - Cardiovascular Imaging</i>, jeaa001, <a href="https://academic.oup.com/ehjcimaging/advance-article/doi/10.1093/ehjci/jeaa001/5717931">https://doi.org/10.1093/ehjci/jeaa001</a>.'
 ---
 <!---This paper is about the number 2. The number 3 is left for future work.-->
 
