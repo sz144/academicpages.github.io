@@ -11,7 +11,7 @@ I am a Phd student in machine learning at the [Department of Computer Science, U
 
 Research Interests
 ======
-Transfer Learning, Machine Learning in Healthcare, Medical Imaging Analysis.
+Machine Learning, Transfer Learning, Neuro/Medical Imaging Analysis.
 
 Education
 ======
