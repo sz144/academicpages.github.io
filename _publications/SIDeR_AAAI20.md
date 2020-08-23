@@ -3,8 +3,8 @@ title: 'Side Information Dependence as a Regularizer for Analyzing Human Brain C
 collection: Proceedings
 date: 2020-02-07
 venue: 'AAAI-20' 
-paperurl: 'https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf'
-citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). In <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)</i>. <a href="https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf">[PDF]</a><a href="https://github.com/sz144/sider">[Code]</a>'
+paperurl: 'https://aaai.org/ojs/index.php/AAAI/article/view/6179'
+citation: 'Zhou, S., Li, W., Cox, C. R., & Lu, H. (2020). In <i>Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI 2020)</i>. <a href="https://aaai.org/ojs/index.php/AAAI/article/view/6179">[Paper]</a><a href="https://github.com/sz144/sider">[Code]</a>'
 ---
 
 [Download paper here](https://staffwww.dcs.shef.ac.uk/people/H.Lu/Publications/SIDeR_AAAI20.pdf)
