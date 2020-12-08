@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Phd student in machine learning at the [Department of Computer Science, The University of Sheffeild](https://www.sheffield.ac.uk/dcs/indexdcs), supervised by [Dr. Haiping Lu](http://www.dcs.shef.ac.uk/~haiping/).
+I am a Phd student in machine learning at the [Department of Computer Science, The University of Sheffeild](https://www.sheffield.ac.uk/dcs/indexdcs), supervised by [Dr. Haiping Lu](http://www.dcs.shef.ac.uk/~haiping/). Currently I am visiting the [State Key Laboratory of Cognitive Neuroscience and Learning at Beijing Normal University](http://brain.bnu.edu.cn/en/Home/), supervised by [Prof. Gaolang Gong](http://brain.bnu.edu.cn/en/People/Professor/2016/0519/772.html)
 
 Research Interests
 ======
